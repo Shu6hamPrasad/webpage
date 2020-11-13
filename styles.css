@@ -1,0 +1,13 @@
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+} 
+strong {
+  margin-top: 100px;
+  margin-left: 6px;
+}
+h3 {
+  margin-left: 6px;
+}
